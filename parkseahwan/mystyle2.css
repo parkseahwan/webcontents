@@ -1,0 +1,5 @@
+/*mystyle.css*/
+a{text-decoration: none;}
+nav ul {
+    border: 1px dotted #000;  /* 점선 테두리 */
+}
